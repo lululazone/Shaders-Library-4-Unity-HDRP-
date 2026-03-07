@@ -1,92 +1,96 @@
-# \# Shaders-Library-4-Unity-HDRP-
+## Shaders-Library-4-Unity-HDRP-
 
-# 
 
-# Bunch of shader I've created for some games.\\
+Bunch of shader I've created for some games.\\
 
-# Warning: These shaders are from old projects, they will not be updated.
+Warning: These shaders are from old projects, they will not be updated.
 
-# 
 
-# Tested with Unity 6+ with HDRP.
+Tested with Unity 6+ with HDRP.
 
-# 
 
-# You will find all the shaders in ShadersLibrary, just drag and drop and have fun!
 
-# 
+You will find all the shaders in ShadersLibrary, just drag and drop and have fun!
 
-# P.S: Don't hesitate to credit me if you use it :P
 
-# 
 
-# \## SHADERS
+ P.S: Don't hesitate to credit me if you use it :P
 
-# 
 
-# \### AmbientCG
 
-# 
+### SHADERS
 
-# Simple shader to import the AmbientCG Materials.
 
-# 
 
-# \### Atmosphere Shader
+#### AmbientCG
 
-# 
 
-# A "Low poly" shader for atmosphere of a planet. 
 
-# 
+Simple shader to import the AmbientCG Materials.
 
-# 
+ 
 
-# \### CardBackAndFront Shader
+#### Atmosphere Shader
 
-# 
+ 
 
-# Simple shader to map an image on front and an image on the back.
+A "Low poly" shader for atmosphere of a planet. 
 
-# 
+![Planet shader](/Pictures/Planet.png)
 
-# \### Flag Shader
+#### CardBackAndFront Shader
 
-# 
+ 
 
-# A big shader for creating a custom flag, can be also useful for creating random patterns etc..
+Simple shader to map an image on front and an image on the back.
 
-# 
+![Card shader](/Pictures/cardbackandfront.png)
+ 
 
-# \### Planet Shader
+#### Flag Shader
 
-# 
+ 
 
-# Simple shader for creating a "Low poly" style planet.
+A big shader for creating a custom flag, can be also useful for creating random patterns etc..
 
-# 
+![Flag shader](/Pictures/flag.png)
 
-# \### Space Shader
+ 
 
-# 
+#### Planet Shader
 
-# Simple shader for creating a space ambient.
+ 
 
-# 
+Simple shader for creating a "Low poly" style planet.
+![Planet shader](/Pictures/Planet.png)
 
-# \### Sun Shader
+ 
 
-# 
+#### Space Shader
 
-# Simple shader for creating a "Low Poly" style sun.
+ 
 
-# 
+Simple shader for creating a space ambient.
 
-# \### Tv Shader 
+ 
 
-# 
+#### Sun Shader
 
-# Simple shader for creating a CRT TV style.
+ 
+
+Simple shader for creating a "Low Poly" style sun.
+
+![Sun shader](/Pictures/sun.png)
+
+ 
+
+#### Tv Shader 
+
+ 
+
+Simple shader for creating a CRT TV style.
+
+![TV shader](/Pictures/TvShader.png)
 
 
 
