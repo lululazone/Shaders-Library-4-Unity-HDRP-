@@ -93,4 +93,10 @@ Simple shader for creating a CRT TV style.
 ![TV shader](/Pictures/TvShader.png)
 
 
+#### Holographic
+
+Shader to make holographic card (for example):
+
+![Holographic](/Pictures/holographic.png)
+
 
