@@ -1,7 +1,9 @@
 ## Shaders-Library-4-Unity-HDRP-
 
 
-[![Shaders Stats](https://github-readme-stats.vercel.app/api?username=lululazone)](https://github.com/lululazone/Shaders-Library-4-Unity-HDRP-)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/image?repos=lululazone/Shaders-Library-4-Unity-HDRP-&type=date&legend=top-left)](https://www.star-history.com/?repos=lululazone%2FShaders-Library-4-Unity-HDRP-&type=date&legend=top-left)
 
 
 
